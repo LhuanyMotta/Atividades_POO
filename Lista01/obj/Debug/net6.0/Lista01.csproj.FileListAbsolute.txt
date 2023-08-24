@@ -1,0 +1,15 @@
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\bin\Debug\net6.0\Lista01.exe
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\bin\Debug\net6.0\Lista01.deps.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\bin\Debug\net6.0\Lista01.runtimeconfig.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\bin\Debug\net6.0\Lista01.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\bin\Debug\net6.0\Lista01.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.csproj.AssemblyReference.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.AssemblyInfoInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.AssemblyInfo.cs
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.csproj.CoreCompileInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\refint\Lista01.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\Lista01.genruntimeconfig.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades\Lista01\obj\Debug\net6.0\ref\Lista01.dll
