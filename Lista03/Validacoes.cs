@@ -1,9 +1,9 @@
 ﻿public static class Validacoes
 {
-    public static bool ValidaCPF (string cpf)
+    public static bool ValidaCPF(string cpf)
     {
         // Remover pontos e traços do CPF
-        cpf = cpf.Replace(".", "").Replace("-", "");
+        cpf = cpf.Replace(".", "").Replace("-", "").Replace(",", "");
 
         // Verificar se o CPF possui 11 dígitos
         if (cpf.Length != 11)
@@ -13,12 +13,12 @@
 
         // Calcular o primeiro dígito verificador
         int soma = 0;
-        for (int i = 0; i <9; i++)
+        for (int i = 0; i < 9; i++)
         {
             soma += int.Parse(cpf[i].ToString()) * (10 - i);
         }
         int primeiroDigitoVerificador = 11 - (soma % 11);
-        if(primeiroDigitoVerificador >= 10)
+        if (primeiroDigitoVerificador >= 10)
         {
             primeiroDigitoVerificador = 0;
         }

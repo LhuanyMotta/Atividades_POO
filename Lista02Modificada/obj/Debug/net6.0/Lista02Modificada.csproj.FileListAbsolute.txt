@@ -1,0 +1,15 @@
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\bin\Debug\net6.0\Lista02Modificada.exe
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\bin\Debug\net6.0\Lista02Modificada.deps.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\bin\Debug\net6.0\Lista02Modificada.runtimeconfig.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\bin\Debug\net6.0\Lista02Modificada.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\bin\Debug\net6.0\Lista02Modificada.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.csproj.AssemblyReference.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.AssemblyInfoInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.AssemblyInfo.cs
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.csproj.CoreCompileInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\refint\Lista02Modificada.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\Lista02Modificada.genruntimeconfig.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ADS\MEUS PERÍODOS\DISCIPLINAS 3º (2-23 PERÍODO)\Programação Orientada a Objetos\Atividades_POO\Lista02Modificada\obj\Debug\net6.0\ref\Lista02Modificada.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Lista03\\Lista03.csproj": {}
+    "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Atividades_POO\\Lista03\\Lista03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Lista03\\Lista03.csproj": {
+    "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Atividades_POO\\Lista03\\Lista03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Lista03\\Lista03.csproj",
+        "projectUniqueName": "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Atividades_POO\\Lista03\\Lista03.csproj",
         "projectName": "Lista03",
-        "projectPath": "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Lista03\\Lista03.csproj",
+        "projectPath": "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Atividades_POO\\Lista03\\Lista03.csproj",
         "packagesPath": "C:\\Users\\lhuan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Lista03\\obj\\",
+        "outputPath": "C:\\Users\\lhuan\\OneDrive\\Área de Trabalho\\ADS\\MEUS PERÍODOS\\DISCIPLINAS 3º (2-23 PERÍODO)\\Programação Orientada a Objetos\\Atividades_POO\\Lista03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lhuan\\AppData\\Roaming\\NuGet\\NuGet.Config",

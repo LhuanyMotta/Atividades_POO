@@ -14,6 +14,6 @@
         else
         {
             Console.WriteLine("CPF inválido!");
-        }      
+        }
     }
 }
