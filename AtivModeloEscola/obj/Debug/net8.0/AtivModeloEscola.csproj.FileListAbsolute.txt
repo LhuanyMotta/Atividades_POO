@@ -1,0 +1,28 @@
+C:\Users\Administrador\Desktop\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.exe
+C:\Users\Administrador\Desktop\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.deps.json
+C:\Users\Administrador\Desktop\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.runtimeconfig.json
+C:\Users\Administrador\Desktop\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.dll
+C:\Users\Administrador\Desktop\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.pdb
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.dll
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\refint\AtivModeloEscola.dll
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.pdb
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\AtivModeloEscola\obj\Debug\net8.0\ref\AtivModeloEscola.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.AssemblyInfoInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.AssemblyInfo.cs
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.csproj.CoreCompileInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\refint\AtivModeloEscola.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.exe
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.deps.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.runtimeconfig.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\bin\Debug\net8.0\AtivModeloEscola.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\AtivModeloEscola.genruntimeconfig.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\AtivModeloEscola\obj\Debug\net8.0\ref\AtivModeloEscola.dll
