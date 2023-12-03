@@ -1,0 +1,14 @@
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ProjFinalPOOBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ProjFinalPOOBiblioteca.AssemblyInfoInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ProjFinalPOOBiblioteca.AssemblyInfo.cs
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ProjFinalPOOBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\bin\Debug\net8.0\ProjFinalPOOBiblioteca.exe
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\bin\Debug\net8.0\ProjFinalPOOBiblioteca.deps.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\bin\Debug\net8.0\ProjFinalPOOBiblioteca.runtimeconfig.json
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\bin\Debug\net8.0\ProjFinalPOOBiblioteca.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\bin\Debug\net8.0\ProjFinalPOOBiblioteca.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ProjFinalPOOBiblioteca.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\refint\ProjFinalPOOBiblioteca.dll
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ProjFinalPOOBiblioteca.pdb
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ProjFinalPOOBiblioteca.genruntimeconfig.cache
+C:\Users\lhuan\OneDrive\Área de Trabalho\ProjFinalPOOBiblioteca\obj\Debug\net8.0\ref\ProjFinalPOOBiblioteca.dll
